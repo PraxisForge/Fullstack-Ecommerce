@@ -1,4 +1,3 @@
-```markdown
 # ⚡ NextGen Store - Fullstack Ecommerce
 
 > A modern, fully responsive Ecommerce platform built with React, Django REST Framework, and Tailwind CSS. Featuring secure authentication, cart management, and payment integration.
@@ -9,12 +8,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/DzUKHesHAAg" 
-  title="YouTube video player" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+## 🚀 Live Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/DzUKHesHAAg)
+
+> Click the image above to watch the full demo.
 
 ## 🚀 Live Demo
 - **Frontend:** [https://praxisforge.github.io/Fullstack-Ecommerce/](https://praxisforge.github.io/Fullstack-Ecommerce/)
@@ -58,8 +56,6 @@
 ```bash
 git clone [https://github.com/PraxisForge/Fullstack-Ecommerce.git](https://github.com/PraxisForge/Fullstack-Ecommerce.git)
 cd Fullstack-Ecommerce
-
-```
 
 ### 2. Backend Setup (Django)
 
