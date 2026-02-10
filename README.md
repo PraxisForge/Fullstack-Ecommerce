@@ -10,9 +10,12 @@
 
 ## 🚀 Live Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/DzUKHesHAAg)
-
-> Click the image above to watch the full demo.
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/DzUKHesHAAg" 
+  title="YouTube video player" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 ## 🚀 Live Demo
 - **Frontend:** [https://praxisforge.github.io/Fullstack-Ecommerce/](https://praxisforge.github.io/Fullstack-Ecommerce/)
