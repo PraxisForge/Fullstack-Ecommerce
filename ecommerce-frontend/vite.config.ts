@@ -8,6 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  // ADD THIS LINE: Matches your repository name exactly
-  base: "/Fullstack-Ecommerce/", 
+  base: "/Fullstack-Ecommerce/",
 })

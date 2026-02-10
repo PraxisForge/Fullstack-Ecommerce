@@ -107,7 +107,8 @@ REST_FRAMEWORK = {
 
 # CORS Config
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",                 # Local React
+    "http://localhost:5173",
+    "https://praxisforge.github.io",# Local React
     # You will uncomment the line below and add your URL after deploying frontend
     # "https://your-github-username.github.io", 
 ]
