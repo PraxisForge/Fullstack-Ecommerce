@@ -10,8 +10,6 @@
 
 ## 🚀 Live Demo Video
 
-## 🚀 Live Demo Video
-
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://youtu.be/DzUKHesHAAg)
 
 > Click the image above to watch the full demo.
