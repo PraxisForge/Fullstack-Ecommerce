@@ -1,0 +1,340 @@
+[
+{
+  "model": "products.category",
+  "pk": 1,
+  "fields": {
+    "name": "Electronics & Gadgets",
+    "slug": "electronics-and-gadgets",
+    "image": "categories/Electronics__Gadgets.jpg"
+  }
+},
+{
+  "model": "products.category",
+  "pk": 2,
+  "fields": {
+    "name": "Fashion",
+    "slug": "fashion",
+    "image": "categories/Fashion.jpg"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "slug": "xiaomi-redmi-note-13-pro",
+    "description": "A mid‑range powerhouse with Snapdragon processor, 200MP AI camera, and 5G connectivity. The 6.67‑inch AMOLED display with 120Hz refresh rate ensures smooth gaming and streaming, while the 5000mAh battery with 120W fast charging keeps you powered all day.",
+    "price": "24999.00",
+    "image": "products/Xiaomi_Redmi_Note_13_Pro.webp",
+    "stock": 50,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:33:02.933Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T05:55:26.307Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 2,
+  "fields": {
+    "category": 2,
+    "name": "FabIndia Cotton Kurta Set",
+    "slug": "fabindia-cotton-kurta-set",
+    "description": "Traditional men’s kurta with churidar, made from handwoven cotton, popular for festive wear.",
+    "price": "2499.00",
+    "image": "products/FabIndia_Cotton_Kurta_Set.jpg",
+    "stock": 100,
+    "is_active": true,
+    "updated_at": "2026-02-09T06:04:24.566Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T06:04:24.566Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 3,
+  "fields": {
+    "category": 1,
+    "name": "Samsung Galaxy S24 Ultra",
+    "slug": "samsung-galaxy-s24-ultra",
+    "description": "Flagship Android smartphone featuring AI‑driven photography, 1TB storage option, and Dynamic AMOLED 2X display. Built for professionals who demand speed, clarity, and premium design.",
+    "price": "129999.00",
+    "image": "products/Samsung_Galaxy_S24_Ultra.jpg",
+    "stock": 20,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:39:37.199Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:30:14.714Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 4,
+  "fields": {
+    "category": 1,
+    "name": "Apple MacBook Air M3",
+    "slug": "apple-macbook-air-m3",
+    "description": "Ultra‑light laptop powered by Apple Silicon M3 chip, Retina display, and 18‑hour battery life. Perfect for students, creators, and professionals seeking performance with portability.",
+    "price": "109900.00",
+    "image": "products/Apple_MacBook_Air_M3.webp",
+    "stock": 20,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:34:32.704Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:34:32.704Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 5,
+  "fields": {
+    "category": 1,
+    "name": "Fitbit Charge 6",
+    "slug": "fitbit-charge-6",
+    "description": "Affordable fitness tracker with advanced heart rate monitoring, GPS, and sleep analysis. Designed for everyday wellness tracking.",
+    "price": "14999.00",
+    "image": "products/Fitbit_Charge_6.jpg",
+    "stock": 60,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:37:55.839Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:36:15.847Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 6,
+  "fields": {
+    "category": 1,
+    "name": "Amazon Echo Show 10",
+    "slug": "amazon-echo-show-10",
+    "description": "Smart display with Alexa integration, rotating screen, and video calling support. A complete hub for smart home control and entertainment.",
+    "price": "24999.00",
+    "image": "products/Amazon_Echo_Show_10.jpg",
+    "stock": 25,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:40:51.202Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:40:51.202Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 7,
+  "fields": {
+    "category": 2,
+    "name": "Levi’s 511 Slim Fit Jeans",
+    "slug": "levis-511-slim-fit-jeans",
+    "description": "Classic denim with stretch fabric for comfort and durability. A wardrobe essential for casual and semi‑formal wear.",
+    "price": "3499.00",
+    "image": "products/Levis_511_Slim_Fit_Jeans.jpg",
+    "stock": 100,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:42:16.608Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:42:16.608Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 8,
+  "fields": {
+    "category": 2,
+    "name": "Nike Air Max 270",
+    "slug": "nike-air-max-270",
+    "description": "Stylish sneakers with cushioned sole and breathable mesh design. Ideal for sports and lifestyle fashion.",
+    "price": "9999.00",
+    "image": "products/Nike_Air_Max_270.jpg",
+    "stock": 40,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:44:09.939Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:44:09.939Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 9,
+  "fields": {
+    "category": 2,
+    "name": "H&M Summer Dress",
+    "slug": "hm-summer-dress",
+    "description": "Lightweight floral dress designed for everyday comfort and style. A must‑have for summer wardrobes.",
+    "price": "2499.00",
+    "image": "products/HM_Summer_Dress.jpg",
+    "stock": 60,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:45:46.385Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:45:46.385Z"
+  }
+},
+{
+  "model": "products.product",
+  "pk": 10,
+  "fields": {
+    "category": 2,
+    "name": "Puma Sports Jacket",
+    "slug": "puma-sports-jacket",
+    "description": "Breathable jacket with moisture‑wicking fabric, ideal for workouts and outdoor wear.",
+    "price": "4999.00",
+    "image": "products/Puma_Sports_Jacket.jpg",
+    "stock": 30,
+    "is_active": true,
+    "updated_at": "2026-02-09T15:47:13.371Z",
+    "rating": "4.50",
+    "num_reviews": 0,
+    "is_quality_checked": false,
+    "created_at": "2026-02-09T15:47:13.371Z"
+  }
+},
+{
+  "model": "users.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$Q6WgCRk7KvmV0IUvWRs53U$K9UT1bCGjf+JrDCI7H2rCqUNJ032XB8jsDZOf9IBrco=",
+    "last_login": "2026-02-09T16:15:43.017Z",
+    "is_superuser": true,
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-02-09T05:07:59.213Z",
+    "email": "damodardhanush@outlook.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$uKWBotxYZN2BxYwodQrhWX$U2LfTVYOLYjKgHyP7JikUa0qUiR3QnKzu7+grKA4pBs=",
+    "last_login": null,
+    "is_superuser": false,
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2026-02-09T13:26:49.814Z",
+    "email": "admin@example.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "full_name": "damodardhanush@outlook.com",
+    "address": "789 MG Road",
+    "city": "Bengaluru",
+    "postal_code": "560001",
+    "total_price": "24999.00",
+    "is_paid": true,
+    "created_at": "2026-02-09T12:04:29.180Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 2,
+  "fields": {
+    "user": 1,
+    "full_name": "damodardhanush@outlook.com",
+    "address": "654 FC Road",
+    "city": "Pune",
+    "postal_code": "411004",
+    "total_price": "2499.00",
+    "is_paid": true,
+    "created_at": "2026-02-09T13:01:35.153Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 3,
+  "fields": {
+    "user": 1,
+    "full_name": "damodardhanush@outlook.com",
+    "address": "321 Anna Salai",
+    "city": "Chennai",
+    "postal_code": "600002",
+    "total_price": "24999.00",
+    "is_paid": true,
+    "created_at": "2026-02-09T13:24:52.704Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 4,
+  "fields": {
+    "user": 2,
+    "full_name": "admin@example.com",
+    "address": "789 MG Road",
+    "city": "Bengaluru",
+    "postal_code": "560001",
+    "total_price": "2499.00",
+    "is_paid": true,
+    "created_at": "2026-02-09T13:39:14.197Z"
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 1,
+  "fields": {
+    "order": 1,
+    "product": 1,
+    "price": "24999.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 2,
+  "fields": {
+    "order": 2,
+    "product": 2,
+    "price": "2499.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 3,
+  "fields": {
+    "order": 3,
+    "product": 1,
+    "price": "24999.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 4,
+  "fields": {
+    "order": 4,
+    "product": 2,
+    "price": "2499.00",
+    "quantity": 1
+  }
+}
+]
