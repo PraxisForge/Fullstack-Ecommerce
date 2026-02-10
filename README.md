@@ -146,7 +146,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ---
 
 ⭐️ **Don't forget to star this repo if you found it useful!**
-
-```
-
-```
